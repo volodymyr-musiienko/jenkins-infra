@@ -1,1 +1,1 @@
-# jenkins-infra
+# jenkins-master-slave-infra-ec2
